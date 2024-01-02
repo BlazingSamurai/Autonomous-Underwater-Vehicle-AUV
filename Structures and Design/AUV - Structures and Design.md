@@ -89,61 +89,57 @@ Temperature = 293.15 (K)
 GRAPHS:-
 
 
-[https://lh7-us.googleusercontent.com/SuM53G4O00J6CeAQX-1idNa7fc8pCvkrktAQHQQxb44ouAi4IgnUYUOqlXTeoCjSOq1xdh4hDUtAD8MjU9d7LJHvj0TmyW231tOui-Dm_0llCnkUnaW90mzhoWxIJdWAIwg3zJ2lEMpNoiBIpSEy2HQ](https://lh7-us.googleusercontent.com/SuM53G4O00J6CeAQX-1idNa7fc8pCvkrktAQHQQxb44ouAi4IgnUYUOqlXTeoCjSOq1xdh4hDUtAD8MjU9d7LJHvj0TmyW231tOui-Dm_0llCnkUnaW90mzhoWxIJdWAIwg3zJ2lEMpNoiBIpSEy2HQ)
+![](AUV%20-%20Structures%20and%20Design/Graph1.png)
 
 Graph1. Von Mises Stress on the square face of cuboidal canister vs. Time
 
-[https://lh7-us.googleusercontent.com/ITXVdqs4H5a5t5bDylzGC_FY-ClN9nNcae36hBFYtGWQdEbyhizMfmOmpuDHXpJj_SWu_9VV3MxlM2qTfegJ_bdWU51HbPQzDSranubvX3xvpaTH9-SmwUKhwLDOtAfd5xZSLE8JBOdi106GnS0OD_w](https://lh7-us.googleusercontent.com/ITXVdqs4H5a5t5bDylzGC_FY-ClN9nNcae36hBFYtGWQdEbyhizMfmOmpuDHXpJj_SWu_9VV3MxlM2qTfegJ_bdWU51HbPQzDSranubvX3xvpaTH9-SmwUKhwLDOtAfd5xZSLE8JBOdi106GnS0OD_w)
+![](AUV%20-%20Structures%20and%20Design/Graph2.png)
 
 Graph2. Von Mises Stress on the Hemispherical surface of cylindrical canister vs. Time
 
-
-[https://lh7-us.googleusercontent.com/c3_3keEzFpkuZ5_NzVXKd8hYCdhlbZtT_KOYs0M587UP9W0wbkB2QvrekfNf8b-CBviiWPFKzbjTxkH9VOuRwsI5LRtBCUB9JRFU4Hc8GlHdw4p_P0ZKDtsMHnEKu4-AH0RxNS8m7tjWscqBGhLsvgw](https://lh7-us.googleusercontent.com/c3_3keEzFpkuZ5_NzVXKd8hYCdhlbZtT_KOYs0M587UP9W0wbkB2QvrekfNf8b-CBviiWPFKzbjTxkH9VOuRwsI5LRtBCUB9JRFU4Hc8GlHdw4p_P0ZKDtsMHnEKu4-AH0RxNS8m7tjWscqBGhLsvgw)
+![](AUV%20-%20Structures%20and%20Design/Graph3.png)
 
 Graph3. Von Mises Stress on the bottom surface of cuboidal canister vs. Time
 
-[https://lh7-us.googleusercontent.com/OCGI1MABwg0b5aSBVIzHCxxjsbukSwkHZNhsXOsECgdPMGfIOiBZJfJN51O_BJSwSXXIt3foAepwU8x9IBh3tz4k8j4zgtAtkl50W8VlBAWZd2amC4yQZhglGtvyc7P4Lu3Um8wX3ch9myWzibXEbZM](https://lh7-us.googleusercontent.com/OCGI1MABwg0b5aSBVIzHCxxjsbukSwkHZNhsXOsECgdPMGfIOiBZJfJN51O_BJSwSXXIt3foAepwU8x9IBh3tz4k8j4zgtAtkl50W8VlBAWZd2amC4yQZhglGtvyc7P4Lu3Um8wX3ch9myWzibXEbZM)
+![](AUV%20-%20Structures%20and%20Design/Graph4.png)
 
 Graph4. Von Mises Stress on the bottom curved surface of cylindrical canister vs. Time
 
-We observe that the cuboidal canister faces less Von Mises stress on the bottom surface. We can also see on comparing Graph.1 and Graph.2 that the Von Mises stress on the frontal face surfaces is significantly less in the case of cuboidal canister.
+We observe that the cuboidal canister faces less Von Mises stress on the bottom surface. We can also see by comparing Graph.1 and Graph.2 that the Von Mises stress on the frontal face surfaces is significantly less in the case of a cuboidal canister.
 
 The involved Simulations are as follows:
 
 Cuboidal face:
 
-[https://lh7-us.googleusercontent.com/cIrDv2GguIbNwND1TveDG57wg3i9WP07XLtrIW5bvmU_HM3kG1rGVZgmQmvwOppLhJOYzOYtvPwOhycjV0p08_CZAUCSZT4MHWIAtRkQY7c4l4xpSkU1KcUEmRR2Z6HIsHnOdPMaTIGH3eSuZp6TM7E](https://lh7-us.googleusercontent.com/cIrDv2GguIbNwND1TveDG57wg3i9WP07XLtrIW5bvmU_HM3kG1rGVZgmQmvwOppLhJOYzOYtvPwOhycjV0p08_CZAUCSZT4MHWIAtRkQY7c4l4xpSkU1KcUEmRR2Z6HIsHnOdPMaTIGH3eSuZp6TM7E)
+![](AUV%20-%20Structures%20and%20Design/Cube_face_1.gif)
+![](AUV%20-%20Structures%20and%20Design/Cube_face_2.png)
 
-[https://lh7-us.googleusercontent.com/b6Udap4T7LGWPpUNRT8MAFNPbEwvTs37y1Av0QiaLgMmeNOYe-udXBPnXuVKeMpcKEfdnJ1s7wt7onaZE5VKQMGJks8NlZ8m60Jq6k4XSSSIgR33X3o7t8msM3ef3RqSV_p1Mxgj6L3SjnvB8ekeaEA](https://lh7-us.googleusercontent.com/b6Udap4T7LGWPpUNRT8MAFNPbEwvTs37y1Av0QiaLgMmeNOYe-udXBPnXuVKeMpcKEfdnJ1s7wt7onaZE5VKQMGJks8NlZ8m60Jq6k4XSSSIgR33X3o7t8msM3ef3RqSV_p1Mxgj6L3SjnvB8ekeaEA)
 
 Cuboidal Bottom surface:
 
-[https://lh7-us.googleusercontent.com/_Upr2i0Nc1bvraP5WNUQlGU92dScQkwjbyskRpBl3g39Mea_2oy_2vNiNmK7BOi4KEJCHgUJF31_M_0zlNVeM7utg_nv8n0Ekca4uKXekqGF8AD-uPgJLMdfweC562xFjTyVdjKVEkEeMRg61XFgzQ8](https://lh7-us.googleusercontent.com/_Upr2i0Nc1bvraP5WNUQlGU92dScQkwjbyskRpBl3g39Mea_2oy_2vNiNmK7BOi4KEJCHgUJF31_M_0zlNVeM7utg_nv8n0Ekca4uKXekqGF8AD-uPgJLMdfweC562xFjTyVdjKVEkEeMRg61XFgzQ8)
-
-[https://lh7-us.googleusercontent.com/d6mV2WaVmHzT19B5jMuVTXXiHcZpvyo_A7p5EusrKw6NRJ_qnM9U789GwiEx9j2lzP0qN6t3puPkZCxG_Giv6YALSPv-i3qofeHAuHNthSo2DAk0IeVaTfxjo34Mo9utxUFYMW7ih8sQYK2Xb-KTbuE](https://lh7-us.googleusercontent.com/d6mV2WaVmHzT19B5jMuVTXXiHcZpvyo_A7p5EusrKw6NRJ_qnM9U789GwiEx9j2lzP0qN6t3puPkZCxG_Giv6YALSPv-i3qofeHAuHNthSo2DAk0IeVaTfxjo34Mo9utxUFYMW7ih8sQYK2Xb-KTbuE)
+![](AUV%20-%20Structures%20and%20Design/Cube_Bottom_1.gif)
+![](AUV%20-%20Structures%20and%20Design/Cube_Bottom_2.png)
 
 Cuboidal canister:
 
-[https://lh7-us.googleusercontent.com/4HCqbMZ-Gn-HxAEpQAmryD_Eq0_OVA5MvQvA73jSVn6cCnWA5gGzc8vvft-SHyyaBPxAEZegnb4WIlzyNieHQ102t1mbvrXUknGTBuMpk5L_bMmXzDX32So1Wo3R92zW_4xj2rOT8eh9MclYrgw9NzI](https://lh7-us.googleusercontent.com/4HCqbMZ-Gn-HxAEpQAmryD_Eq0_OVA5MvQvA73jSVn6cCnWA5gGzc8vvft-SHyyaBPxAEZegnb4WIlzyNieHQ102t1mbvrXUknGTBuMpk5L_bMmXzDX32So1Wo3R92zW_4xj2rOT8eh9MclYrgw9NzI)
+![](AUV%20-%20Structures%20and%20Design/Cube_Can_1.gif)
+![](AUV%20-%20Structures%20and%20Design/Cube_Can_2.png)
 
-[https://lh7-us.googleusercontent.com/K1Yzz7JrKZ-WKaoQDj10hv7V1a0hO5qQtmp5PnqY2F4c1M9ptJyJZTlne8FI8V5lqu-1Sw60Zy0tezO0QSa7VCUgdw83DLISDglpPGkO17qk5DquAXQBqR6j3kaCN2re9tyxfg0OXeXw32xfQ1wOQPU](https://lh7-us.googleusercontent.com/K1Yzz7JrKZ-WKaoQDj10hv7V1a0hO5qQtmp5PnqY2F4c1M9ptJyJZTlne8FI8V5lqu-1Sw60Zy0tezO0QSa7VCUgdw83DLISDglpPGkO17qk5DquAXQBqR6j3kaCN2re9tyxfg0OXeXw32xfQ1wOQPU)
 
 Cylinder Bottom surface:
 
-[https://lh7-us.googleusercontent.com/bL_YVFt7acK4B5znwIAShoJUb73bDwcnRjk3dpnffqY6P8-acAjeuQDiHWhbGcs6xQXN8OML4a0gaOfZtUsmVuiIS3hJdlyWK9xOUktDF1hENz2gSsSdLPBjiW5Y5ytDtFTXCMZDBWK5UtxaYrJPz_I](https://lh7-us.googleusercontent.com/bL_YVFt7acK4B5znwIAShoJUb73bDwcnRjk3dpnffqY6P8-acAjeuQDiHWhbGcs6xQXN8OML4a0gaOfZtUsmVuiIS3hJdlyWK9xOUktDF1hENz2gSsSdLPBjiW5Y5ytDtFTXCMZDBWK5UtxaYrJPz_I)
+![](AUV%20-%20Structures%20and%20Design/Cylinder_Bottom_1.gif)
+![](AUV%20-%20Structures%20and%20Design/Cylinder_Bottom_2.png)
 
-[https://lh7-us.googleusercontent.com/PUqyit1DU6I2TdiPwotl9jy3lDZP2cTM-KCGIXPXBDxUkS_p9jPDPNoEHwMUYY2kCxHqtW9K5sbPW-OCynnYDLv50xhoviOC-9Yb-ofbC6fTuOOOB7XF7X9pBonj_MxJEwbCGL_lsnMke1VKXSR2DIM](https://lh7-us.googleusercontent.com/PUqyit1DU6I2TdiPwotl9jy3lDZP2cTM-KCGIXPXBDxUkS_p9jPDPNoEHwMUYY2kCxHqtW9K5sbPW-OCynnYDLv50xhoviOC-9Yb-ofbC6fTuOOOB7XF7X9pBonj_MxJEwbCGL_lsnMke1VKXSR2DIM)
 
 Hemispherical surface:
 
-[https://lh7-us.googleusercontent.com/OT2m2yFZ3y0lfPtWDQivmpGLTYpFYNHcU18DcDiJZDnKVTXWArvgQyC8crj4p5ZTKiqUXAxl5RyqfeplVrYsJDydBis01gTQReOgmU4_ryqz6CWRLZUdyUlcUOVjz6fU6_vYmg_mjufeijokT2d9Ehg](https://lh7-us.googleusercontent.com/OT2m2yFZ3y0lfPtWDQivmpGLTYpFYNHcU18DcDiJZDnKVTXWArvgQyC8crj4p5ZTKiqUXAxl5RyqfeplVrYsJDydBis01gTQReOgmU4_ryqz6CWRLZUdyUlcUOVjz6fU6_vYmg_mjufeijokT2d9Ehg)
-
-[https://lh7-us.googleusercontent.com/d8Tz09mb3nepjhWT5ri2zbg3H_EjB9Lz1K17gnTQcyQ_6U2S9AC4bGaKNUlPLwQTWR6RMTWNGvwZILEfIQQv4Cf20JFj-roCZZWf5PlvJ1SBNxDS001OoN1wEYUHp9x4XRJZpy6KuSWoaBVMY7ZFolY](https://lh7-us.googleusercontent.com/d8Tz09mb3nepjhWT5ri2zbg3H_EjB9Lz1K17gnTQcyQ_6U2S9AC4bGaKNUlPLwQTWR6RMTWNGvwZILEfIQQv4Cf20JFj-roCZZWf5PlvJ1SBNxDS001OoN1wEYUHp9x4XRJZpy6KuSWoaBVMY7ZFolY)
+![](AUV%20-%20Structures%20and%20Design/Cylinder_Face_1.gif)
+![](AUV%20-%20Structures%20and%20Design/Cylinder_Face_2.png)
 
 Cylindrical canister:
 
-[https://lh7-us.googleusercontent.com/Vj9uT0qVkE79kJkCcSSPM9ShG7nlhcIRJsE2P0PL9KW4iAK2jYgA6LICHQvXOzWZ-njjoZS9i8YMyh_jjkZt8SuAYpx8k81g2hzmvl61XhiDpsnXutVpStToBbiDXWCZuJnbdTOoImUQetTvMkBlNvs](https://lh7-us.googleusercontent.com/Vj9uT0qVkE79kJkCcSSPM9ShG7nlhcIRJsE2P0PL9KW4iAK2jYgA6LICHQvXOzWZ-njjoZS9i8YMyh_jjkZt8SuAYpx8k81g2hzmvl61XhiDpsnXutVpStToBbiDXWCZuJnbdTOoImUQetTvMkBlNvs)
-
-[https://lh7-us.googleusercontent.com/xUmBuWOmuUeFtuX6NleAD9fnVoCY56dwq1hs0RjwjsDuqxkX7HVBtTToccJwao0CGz74mUe8kRDxvoVu3RG6FyqL6_1sBr6scSEa-6Es5T9t0NAP8zs5GvRkyR3xFGktxkcfEHoxLtKgUCrmo2OSmng](https://lh7-us.googleusercontent.com/xUmBuWOmuUeFtuX6NleAD9fnVoCY56dwq1hs0RjwjsDuqxkX7HVBtTToccJwao0CGz74mUe8kRDxvoVu3RG6FyqL6_1sBr6scSEa-6Es5T9t0NAP8zs5GvRkyR3xFGktxkcfEHoxLtKgUCrmo2OSmng)
+![](AUV%20-%20Structures%20and%20Design/Cylinder_Can_1.gif)
+![](AUV%20-%20Structures%20and%20Design/Cylinder_Can_2.png)
 
 ### Active Ballast System
