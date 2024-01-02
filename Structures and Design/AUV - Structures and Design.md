@@ -2,53 +2,53 @@
 
 The physics underwater is very different compared to the physics on land. There are factors that vary compared to those on land.
 
-- ****************Pressure**************** - Pressure variation is very high underwater. For every ********************one meter******************** rise in ************depth************ the pressure rises by  **************1 atm**************.
+- ****************Pressure**************** - Pressure variation is very high underwater. For every ********************one meter******************** rise in ************depth************, the pressure rises by  **************1 atm**************.
 
-![Source: [Research Gate](https://www.researchgate.net/figure/Relationship-of-underwater-depth-gas-volume-and-gas-pressure-Adapted-from-Lynch-and_fig1_331186737). Variation of Pressure with Depth.](AUV%20-%20Structures%20and%20Design%2038c499c8a08241b5b17c005822d408c6/Untitled.png)
+![Source: [Research Gate](https://www.researchgate.net/figure/Relationship-of-underwater-depth-gas-volume-and-gas-pressure-Adapted-from-Lynch-and_fig1_331186737). Variation of Pressure with Depth.](AUV%20-%20Structures%20and%20Design/Untitled.png)
 
 Source: [Research Gate](https://www.researchgate.net/figure/Relationship-of-underwater-depth-gas-volume-and-gas-pressure-Adapted-from-Lynch-and_fig1_331186737). Variation of Pressure with Depth.
 
-- ****************Light -**************** The intensity of light decreases rapidly as depth increases. Beyond **100 meters** the maximum intensity of light available is ****1%****.
+- ****************Light -**************** The intensity of light decreases rapidly as depth increases. Beyond **100 meters**, the maximum intensity of light available is ****1%****.
 
-![Source : [Research Gate](https://www.researchgate.net/figure/Attenuation-of-light-underwater_fig1_320145382). Shows the Intensity of light absorbed with depth for different colors of light.](AUV%20-%20Structures%20and%20Design%2038c499c8a08241b5b17c005822d408c6/Untitled%201.png)
+![Source : [Research Gate](https://www.researchgate.net/figure/Attenuation-of-light-underwater_fig1_320145382). Shows the Intensity of light absorbed with depth for different colours of light.](AUV%20-%20Structures%20and%20Design/Untitled%201.png)
 
-Source : [Research Gate](https://www.researchgate.net/figure/Attenuation-of-light-underwater_fig1_320145382). Shows the Intensity of light absorbed with depth for different colors of light.
+Source : [Research Gate](https://www.researchgate.net/figure/Attenuation-of-light-underwater_fig1_320145382). Shows the Intensity of light absorbed with depth for different colours of light.
 
-- **********************************Flora and Fauna -********************************** As the depth increase the wide variety of flora and fauna increases, especially on the Ocean bed.
+- **********************************Flora and Fauna -********************************** As the depth increases the wide variety of flora and fauna increases, especially on the Ocean bed.
 
-![Source: [Pixabay](https://pixabay.com/photos/dive-underwater-reef-corals-694689/).](AUV%20-%20Structures%20and%20Design%2038c499c8a08241b5b17c005822d408c6/Untitled%202.png)
+![Source: [Pixabay](https://pixabay.com/photos/dive-underwater-reef-corals-694689/).](AUV%20-%20Structures%20and%20Design/Untitled%202.png)
 
 Source: [Pixabay](https://pixabay.com/photos/dive-underwater-reef-corals-694689/).
 
-There are a lot more factors that change underwater as depth changes, like density, salinity and temperature. There’s also stuff like waves and tides to take into consideration. But, for this project we are restricting ourselves to only a swimming pool, extended to a small pond. Hence, we are taking these there factors as major. 
+There are a lot more factors that change underwater as depth changes, like density, salinity and temperature. There’s also stuff like waves and tides to take into consideration. But, for this project, we are restricting ourselves to only a swimming pool, extended to a small pond. Hence, we are taking these there factors as major. 
 
-Variation in ****************************Pressure determines the Structure of the AUV****************************. This also allows leakage of water into the AUV which will damage the electronics. To prevent this we need to seal all possible openings or any gaps in the AUV. Hence, all the electronics should be sealed in an air tight environment. 
+Variation in ****************************Pressure determines the Structure of the AUV****************************. This also allows leakage of water into the AUV which will damage the electronics. To prevent this, we need to seal all possible openings or any gaps in the AUV. Hence, all the electronics should be sealed in an air-tight environment. 
 
-Next, the changes in ********************************Light Intensity******************************** is the factor that determines the color of objects underwater which plays an important role in object detection used for autonomous path planning. More about this will be updated in Control and Navigation.
+Next, the changes in ********************************Light Intensity******************************** is the factor that determines the colour of objects underwater, which plays an important role in object detection used for autonomous path planning. More about this will be updated in Control and Navigation.
 
 ### Basic Structure of an AUV/ROV:
 
-A standard structure of an AUV/ROV consists of a canister, which cases all the electronics and the onboard computer, and this canister is supported by an ROV frame. 
+A standard structure of an AUV/ROV consists of a canister, which causes all the electronics and the onboard computer, and this canister is supported by an ROV frame. 
 
-![Source: BlueROV.](AUV%20-%20Structures%20and%20Design%2038c499c8a08241b5b17c005822d408c6/Untitled%203.png)
+![Source: BlueROV.](AUV%20-%20Structures%20and%20Design/Untitled%203.png)
 
 Source: BlueROV.
 
 ### Design and Fabrication:
 
-As part of this project we designed an ROV frame along with an AUV frame. We also fabricated the ROV frame using simple PVC pipes. We plan finishing the ROV first.
+As part of this project, we designed an ROV frame along with an AUV frame. We also fabricated the ROV frame using simple PVC pipes. We plan to finish the ROV first.
 
-![WhatsApp Image 2022-10-22 at 10.54.52 AM.jpeg](AUV%20-%20Structures%20and%20Design%2038c499c8a08241b5b17c005822d408c6/WhatsApp_Image_2022-10-22_at_10.54.52_AM.jpeg)
+![WhatsApp Image 2022-10-22 at 10.54.52 AM.jpeg](AUV%20-%20Structures%20and%20Design/WhatsApp_Image_2022-10-22_at_10.54.52_AM.jpeg)
 
 The picture shows the assembled ROV Frame made from PVC Pipes.
 
-![WhatsApp Image 2022-11-19 at 4.04.37 PM.jpeg](AUV%20-%20Structures%20and%20Design%2038c499c8a08241b5b17c005822d408c6/WhatsApp_Image_2022-11-19_at_4.04.37_PM.jpeg)
+![WhatsApp Image 2022-11-19 at 4.04.37 PM.jpeg](AUV%20-%20Structures%20and%20Design/WhatsApp_Image_2022-11-19_at_4.04.37_PM.jpeg)
 
 The following are the thruster holder and propeller for the AUV/ROV.
 
-![WhatsApp Image 2023-01-12 at 4.04.09 PM.jpeg](AUV%20-%20Structures%20and%20Design%2038c499c8a08241b5b17c005822d408c6/WhatsApp_Image_2023-01-12_at_4.04.09_PM.jpeg)
+![WhatsApp Image 2023-01-12 at 4.04.09 PM.jpeg](AUV%20-%20Structures%20and%20Design/WhatsApp_Image_2023-01-12_at_4.04.09_PM.jpeg)
 
-![WhatsApp Image 2023-01-12 at 4.04.28 PM.jpeg](AUV%20-%20Structures%20and%20Design%2038c499c8a08241b5b17c005822d408c6/WhatsApp_Image_2023-01-12_at_4.04.28_PM.jpeg)
+![WhatsApp Image 2023-01-12 at 4.04.28 PM.jpeg](AUV%20-%20Structures%20and%20Design/WhatsApp_Image_2023-01-12_at_4.04.28_PM.jpeg)
 
 ## COMSOL Analysis:
 
@@ -88,17 +88,19 @@ Temperature = 293.15 (K)
 
 GRAPHS:-
 
-Graph1. Von Mises Stress on the square face of cuboidal canister vs. Time
 
 [https://lh7-us.googleusercontent.com/SuM53G4O00J6CeAQX-1idNa7fc8pCvkrktAQHQQxb44ouAi4IgnUYUOqlXTeoCjSOq1xdh4hDUtAD8MjU9d7LJHvj0TmyW231tOui-Dm_0llCnkUnaW90mzhoWxIJdWAIwg3zJ2lEMpNoiBIpSEy2HQ](https://lh7-us.googleusercontent.com/SuM53G4O00J6CeAQX-1idNa7fc8pCvkrktAQHQQxb44ouAi4IgnUYUOqlXTeoCjSOq1xdh4hDUtAD8MjU9d7LJHvj0TmyW231tOui-Dm_0llCnkUnaW90mzhoWxIJdWAIwg3zJ2lEMpNoiBIpSEy2HQ)
+
+Graph1. Von Mises Stress on the square face of cuboidal canister vs. Time
 
 [https://lh7-us.googleusercontent.com/ITXVdqs4H5a5t5bDylzGC_FY-ClN9nNcae36hBFYtGWQdEbyhizMfmOmpuDHXpJj_SWu_9VV3MxlM2qTfegJ_bdWU51HbPQzDSranubvX3xvpaTH9-SmwUKhwLDOtAfd5xZSLE8JBOdi106GnS0OD_w](https://lh7-us.googleusercontent.com/ITXVdqs4H5a5t5bDylzGC_FY-ClN9nNcae36hBFYtGWQdEbyhizMfmOmpuDHXpJj_SWu_9VV3MxlM2qTfegJ_bdWU51HbPQzDSranubvX3xvpaTH9-SmwUKhwLDOtAfd5xZSLE8JBOdi106GnS0OD_w)
 
 Graph2. Von Mises Stress on the Hemispherical surface of cylindrical canister vs. Time
 
-Graph3. Von Mises Stress on the bottom surface of cuboidal canister vs. Time
 
 [https://lh7-us.googleusercontent.com/c3_3keEzFpkuZ5_NzVXKd8hYCdhlbZtT_KOYs0M587UP9W0wbkB2QvrekfNf8b-CBviiWPFKzbjTxkH9VOuRwsI5LRtBCUB9JRFU4Hc8GlHdw4p_P0ZKDtsMHnEKu4-AH0RxNS8m7tjWscqBGhLsvgw](https://lh7-us.googleusercontent.com/c3_3keEzFpkuZ5_NzVXKd8hYCdhlbZtT_KOYs0M587UP9W0wbkB2QvrekfNf8b-CBviiWPFKzbjTxkH9VOuRwsI5LRtBCUB9JRFU4Hc8GlHdw4p_P0ZKDtsMHnEKu4-AH0RxNS8m7tjWscqBGhLsvgw)
+
+Graph3. Von Mises Stress on the bottom surface of cuboidal canister vs. Time
 
 [https://lh7-us.googleusercontent.com/OCGI1MABwg0b5aSBVIzHCxxjsbukSwkHZNhsXOsECgdPMGfIOiBZJfJN51O_BJSwSXXIt3foAepwU8x9IBh3tz4k8j4zgtAtkl50W8VlBAWZd2amC4yQZhglGtvyc7P4Lu3Um8wX3ch9myWzibXEbZM](https://lh7-us.googleusercontent.com/OCGI1MABwg0b5aSBVIzHCxxjsbukSwkHZNhsXOsECgdPMGfIOiBZJfJN51O_BJSwSXXIt3foAepwU8x9IBh3tz4k8j4zgtAtkl50W8VlBAWZd2amC4yQZhglGtvyc7P4Lu3Um8wX3ch9myWzibXEbZM)
 
